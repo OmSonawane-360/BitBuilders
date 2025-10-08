@@ -65,4 +65,73 @@ source venv/bin/activate  # For macOS/Linux
 venv\Scripts\activate     # For Windows
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt 
+```
+
+---
+## 🤝 Contributing
+
+We welcome contributors from all backgrounds!
+
+- **Steps to Contribute**
+- Fork the repository
+- Create a new branch
+```bash
+git checkout -b feat/<your-feature-name>
+```
+- Commit your changes
+```bash
+git commit -m "feat: add <your-feature>"
+
+```
+- Push to your branch
+```bash
+git push origin feat/<your-feature-name>
+
+```
+- Open a Pull Request for review
+
+- **Contribution Guidelines**
+
+- Keep pull requests focused and well-documented
+- Add comments and meaningful commit messages
+- Ensure code runs cleanly in the virtual environment
+- Use notebooks for experiments and scripts for reusable code
+
+---
+## 🗂️ Project Structure
+/
+├── data/             # Datasets and CSV files
+├── notebooks/        # Jupyter notebooks for analysis
+├── src/              # Core Python source code
+├── tests/            # Unit tests and validation scripts
+├── docs/             # Documentation and guides
+├── requirements.txt  # Python dependencies
+├── README.md
+└── .github/          # CI/CD workflows and templates
+
+---
+## 🛣️ Roadmap
+- Set up project structure and environment
+- Add example data science notebooks
+- Implement core ML models (Regression, Classification, Clustering)
+- Add visualization tools and dashboards
+- Build contribution guides for beginners-  Deploy example web dashboard with Streamlit / FastAPI
+
+---
+## 💬 Code of Conduct
+
+We aim to maintain an inclusive and respectful environment.
+Harassment, hate speech, or any form of discrimination will not be tolerated.
+Please follow the Contributor Covenant
+
+---
+
+## 📧 Contact
+- **Maintainer:** Om Sonawane
+- **📩 Email:** ompatil0357@gmail.com
+- **🔗 LinkedIn:** linkedin.com/in/om-sonawane360
+- **🐦 X (Twitter):** @OmPatil16476978
+
+---
+**Let’s connect, collaborate, and build something awesome together! 🚀**

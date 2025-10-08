@@ -90,7 +90,7 @@ git push origin feat/<your-feature-name>
 
 ```
 - Open a Pull Request for review
-
+---
 - **Contribution Guidelines**
 
 - Keep pull requests focused and well-documented

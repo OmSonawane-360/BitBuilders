@@ -46,6 +46,8 @@ This tool empowers job seekers to **get shortlisted faster** and **stand out** i
 
 ## 🗂️ Project Structure
 
+```bash
+
 JobAlign/
 ├── backend/
 │ ├── app/
@@ -74,3 +76,4 @@ JobAlign/
 ├── tests/ # Unit & integration tests
 ├── LICENSE
 └── README.md
+```

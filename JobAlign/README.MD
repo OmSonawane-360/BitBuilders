@@ -77,3 +77,37 @@ JobAlign/
 ├── LICENSE
 └── README.md
 ```
+---
+
+## 🧑‍💻 About the Creator
+
+**Om Sonawane**
+- 🌱 Working with Generative AI & Agentic AI to build future-ready solutions
+- 💻 Freelance Full-Stack Developer & Designer | Passionate about UI/UX
+- 📊 Expanding skills in Data Analytics & Data Science
+- 🚀 Interested in AI, scalable tech, and product-based innovations
+- 🎯 Goal: Blend creativity + technology to craft impactful digital products
+
+- 📧 Email: ompatil0357@gmail.com
+- 🔗 LinkedIn
+- | X (Twitter)
+---
+
+## 🌟 Project by BitBuilders Community
+
+- This project is maintained by BitBuilders, a community for developers to learn, build, and collaborate on open-source technology projects.
+- We believe in learning by building — together.
+---
+
+## 💬 Join Us
+
+- If you’re passionate about AI, Data Science, or Full-Stack Development, come build with us! Start by forking this repo and exploring the JobAlign project.
+
+---
+## 📧 Contact
+- **Maintainer:** Om Sonawane
+- **📩 Email:** ompatil0357@gmail.com
+- **🔗 LinkedIn:** linkedin.com/in/om-sonawane360
+- **🐦 X (Twitter):** @OmPatil16476978
+
+---

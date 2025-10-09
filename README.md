@@ -100,6 +100,7 @@ git push origin feat/<your-feature-name>
 
 ---
 ## 🗂️ Project Structure
+```bash
 /
 ├── data/             # Datasets and CSV files
 ├── notebooks/        # Jupyter notebooks for analysis
@@ -109,7 +110,7 @@ git push origin feat/<your-feature-name>
 ├── requirements.txt  # Python dependencies
 ├── README.md
 └── .github/          # CI/CD workflows and templates
-
+```
 ---
 ## 🛣️ Roadmap
 - Set up project structure and environment
@@ -132,6 +133,12 @@ Please follow the Contributor Covenant
 - **📩 Email:** ompatil0357@gmail.com
 - **🔗 LinkedIn:** linkedin.com/in/om-sonawane360
 - **🐦 X (Twitter):** @OmPatil16476978
+
+---
+## 💬 Join Us
+
+- If you’re passionate about AI, Data Science, or Full-Stack Development,come build with us! Start by forking this repo and exploring the JobAlign project.
+
 
 ---
 **Let’s connect, collaborate, and build something awesome together! 🚀**

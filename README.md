@@ -6,7 +6,7 @@ A space where learners, developers, and data enthusiasts come together to build,
 ---
 
 ## 🧭 Table of Contents
-- [About](#about) 
+- [About](#about)  
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)

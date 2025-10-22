@@ -9,7 +9,7 @@ A space where learners, developers, and data enthusiasts come together to build,
 - [About](#about)  
 - [Features](#features) 
 - [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
+- [Getting Started](#getting-started) 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Project Structure](#project-structure)
